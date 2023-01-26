@@ -65,7 +65,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![output](Screenshot from 2023-01-27 00-16-33.png)
+![output](Screenshot%20from%202023-01-27%2000-16-33.png)
 
 ## RESULT:
 The program is executed succesfully
